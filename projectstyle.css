@@ -1263,36 +1263,3 @@ footer ul li{
 #policy{
     text-decoration: underline;
 }
-@media screen and (max-width:480px) {
- body{
-    display: flex;
-    flex-wrap: wrap;
-    
-
- }
-    
-@media  screen and (max-width:480px) { 
-    /* .nav-bar{ 
-    display: flex;
-    flex-direction: column;
-    row-gap: 10px;
-    text-decoration: underline;
-    list-style: none;
-    align-items: flex-end;
-    padding-right: 40px;
-    display: none;
-     position: relative; */
-    
-}
-.solid:hover ul{
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-
-}
-body{
-    display: flex;
-    flex-wrap: wrap;
-    
-}
-}
